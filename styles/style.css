@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+/* main section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+
+.banner{
+    position: absolute;
+    top: 216px;
+    left: 60%;
+    width: 425px;
+}
+.section-banner img{
+    height: 809px;
+    width: 100%;
+    
+}
+.banner-tittle{
+    font-weight: 700px;
+    font-size: 65px;
+    text-align: right;
+}
+.banner-description{
+    font-size: 16px;
+    text-align: right;
+    line-height: 26px;
+}
+.btn-primary{
+    color: #fff;
+    font-size: 20px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    border: none;
+    padding: 18px 35px;
+    text-align: right;
+    margin-top: 45px;
+    margin-left: 290px;
+}
+/* failure blog */
+
+.failure-section{
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+    
+    border-radius: 10px;
+    
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 130px;
+}
+.section-img{
+    margin-right: 100px;
+    width: 500px;
+    height: 723.3px;
+    left: 206px;   
+}
+.failure-tittle{
+    font-size: 40px;
+    font-weight: 600px;
+    line-height: 47px;
+    margin-bottom: 30px;
+}
+.failure-description{
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.failure-item ul{
+    list-style-type: square;
+    
+    margin-left: 20px;
+
+}
+.failure-item li{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400px;
+    line-height: 26px;
+}
+/* my plans */
+
+.plans{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 130px;
+}
+.my-plan-titlle{
+    font-size: 45px;
+    font-weight: 700px;
+    text-align: center;
+    margin-bottom: 130px;
+}
+.plan-tittle{
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: 600px;
+}
+.plan-description{
+    font-size: 20px;
+    font-weight: 400px;
+}
+/* footer section */
+
+.footer-section{
+    
+    height: 460px;
+    background-color: #151414;
+    color: #fff;
+    padding-bottom: 100px;
+    
+}
+.section-tittle{
+    padding: 100px 320px 0;
+    font-size: 45px;
+    font-weight: 700px;
+    margin-bottom: 15px;
+}
+.footer{
+    display: flex;
+    padding: 0px 320px 100px;
+    width: 960px;
+    justify-content: space-between;
+    gap: 320px;
+}
+.footer-tittle,h4{
+    font-size: 20px;
+    font-weight: 400px;
+    margin-bottom: 15px;
+}
+.img2{
+    margin: 0 20px 0;
+    
+}
+.subscribe-tittle{
+    font-size: 40px;
+    font-weight: 700px;
+}
+.subscribe-form{
+    margin-top: 20px;
+    padding: 20px 60px;
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.5px);
+    font-size: 20px;
+    font-weight: 400px;
+}
+.subscribe-btn{
+    font-size: 20px;
+    font-weight: 600px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+/* watch container */
+.container{
+    background-image: url(../images/watch.png);
+    height: 300px;
+    margin-bottom: 130px;
+    
+    display: flex;
+    position: relative;
+    justify-content: left;
+    
+    
+    
+}
+.container h3{
+    
+    color: #fff;
+    font-size: 60px;
+    font-weight: 700px;
+    width: 650px;
+    margin-left: 130px;
+    margin-top: 40px;
+    position: relative;
+    z-index: 11;
+    
+}
+.gradient{
+    background-image: url(../images/gradient2.png);
+    height: 300px;
+    width: 100%;
+    position: absolute;
+    
+}
+
+  
